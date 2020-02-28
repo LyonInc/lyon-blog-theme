@@ -1,18 +1,14 @@
 {
-  "name": "simply",
-  "description": "simply theme for ghost by @GodoFredoNinja",
-  "demo": "https://godofredo.ninja",
-  "version": "0.2.8",
+  "name": "lyon-blog-theme",
+  "description": "Medium-inspired theme for blog.lyon.com.ph",
+  "version": "1.0.0",
   "engines": {
     "ghost": ">=3.0.0",
     "ghost-api": "v3"
   },
   "license": "GPLv3",
-  "screenshots": {
-    "desktop": "screenshot.jpg"
-  },
   "author": {
-    "name": "GodoFredo",
+    "name": "GodoFredo, Lyon Software Technologies Inc.",
     "email": "hello@godofredo.ninja",
     "url": "https://godofredo.ninja"
   },
@@ -28,15 +24,14 @@
     "ghost",
     "theme",
     "ghost-theme",
-    "GodoFredoNinja"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/godofredoninja/simply"
+    "url": "https://github.com/LyonInc/lyon-blog-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/godofredoninja/simply/issues",
-    "email": "hello@godofredo.ninja"
+    "url": "https://github.com/LyonInc/lyon-blog-theme.git/issues",
+    "email": "corporate@lyon.com.ph"
   },
   "config": {
     "posts_per_page": 18,
